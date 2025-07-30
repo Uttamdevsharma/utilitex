@@ -46,6 +46,12 @@ Returns the sum of the two numbers.
 
 Returns the product of the two numbers.
 
+### `formatSmartNumber(num)`
+
+-   `num` (number): The number to format.
+
+Returns a formatted string representing the number in a smart, human-readable way (e.g., 1.2K, 5M, 1B).
+
 ## Testing
 
 To run the tests for this project, use the following command:
